@@ -1,4 +1,4 @@
-pascal_translator
+Pascal Translator
 =================
 
 Транслятор из языка Simple Pascal в 3х адресный код и интерпретатор этого кода
